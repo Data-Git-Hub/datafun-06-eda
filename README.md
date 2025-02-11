@@ -1,7 +1,5 @@
 # datafun-06-eda
 
-Simple overview of use/purpose.
-
 ## Description
 
 An in-depth paragraph about your project and overview of use.
@@ -10,8 +8,11 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* jupyterlab
+* pandas
+* pyarrow
+* matplotlib
+* seaborn
 
 ### Installing
 
@@ -28,7 +29,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+Any advice for common problems or issues.
 ```
 command to run if program contains helper info
 ```
@@ -40,8 +41,7 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0
+    * TBD
+* 0.0
+    * Initial Setup
