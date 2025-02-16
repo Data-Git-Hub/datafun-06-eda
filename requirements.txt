@@ -3,3 +3,9 @@ pandas
 matplotlib
 seaborn
 openpyxl
+
+# future use dependencies
+
+# geopandas
+# folium
+# pyarrow
