@@ -8,9 +8,9 @@
 
 * jupyterlab
 * pandas
-* pyarrow
 * matplotlib
 * seaborn
+* openpyxl
 
 ### Installing
 

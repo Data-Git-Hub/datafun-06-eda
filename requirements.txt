@@ -1,8 +1,5 @@
 jupyterlab
 pandas
-pyarrow
 matplotlib
 seaborn
-geopandas
-folium
 openpyxl
